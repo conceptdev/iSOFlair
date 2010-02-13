@@ -1,0 +1,38 @@
+{
+	Title = AppSettings;
+	StringsTable = Root;
+	PreferenceSpecifiers = (
+		{
+			Type = PSGroupSpecifier;
+			Title = "User Ids";
+		},
+		{
+			Type = PSTextFieldSpecifier;
+			Title = StackOverflow;
+			Key = soid;
+			"AutocapitalizationType" = None;
+			AutocorrectionType = No;
+		},
+		{
+			Type = PSTextFieldSpecifier;
+			Title = ServerFault;
+			Key = sfid;
+			"AutocapitalizationType" = None;
+			AutocorrectionType = No;
+		},
+		{
+			Type = PSTextFieldSpecifier;
+			Title = SuperUser;
+			Key = suid;
+			"AutocapitalizationType" = None;
+			AutocorrectionType = No;
+		},
+		{
+			Type = PSTextFieldSpecifier;
+			Title = Meta;
+			Key = meid;
+			"AutocapitalizationType" = None;
+			AutocorrectionType = No;
+		},
+	);
+}
