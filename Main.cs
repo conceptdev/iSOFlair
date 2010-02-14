@@ -2,12 +2,11 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Drawing;
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
-using System.Net;
-using System.Text;
 
-namespace iSOFlair
+namespace Swipe01
 {
 	public class Application
 	{

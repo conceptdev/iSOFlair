@@ -1,7 +1,7 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSOFlair", "iSOFlair.csproj", "{F2CDC2D1-031B-46F1-A6FA-104CEDC84243}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSOFlair", "iSOFlair.csproj", "{35D3780D-0DBA-467B-A59F-0B30D07BBD8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,14 @@ Global
 		Release|iPhone = Release|iPhone
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F2CDC2D1-031B-46F1-A6FA-104CEDC84243}.Debug|iPhone.ActiveCfg = Debug|iPhone
-		{F2CDC2D1-031B-46F1-A6FA-104CEDC84243}.Debug|iPhone.Build.0 = Debug|iPhone
-		{F2CDC2D1-031B-46F1-A6FA-104CEDC84243}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
-		{F2CDC2D1-031B-46F1-A6FA-104CEDC84243}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
-		{F2CDC2D1-031B-46F1-A6FA-104CEDC84243}.Release|iPhone.ActiveCfg = Release|iPhone
-		{F2CDC2D1-031B-46F1-A6FA-104CEDC84243}.Release|iPhone.Build.0 = Release|iPhone
-		{F2CDC2D1-031B-46F1-A6FA-104CEDC84243}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
-		{F2CDC2D1-031B-46F1-A6FA-104CEDC84243}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{35D3780D-0DBA-467B-A59F-0B30D07BBD8F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{35D3780D-0DBA-467B-A59F-0B30D07BBD8F}.Debug|iPhone.Build.0 = Debug|iPhone
+		{35D3780D-0DBA-467B-A59F-0B30D07BBD8F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{35D3780D-0DBA-467B-A59F-0B30D07BBD8F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{35D3780D-0DBA-467B-A59F-0B30D07BBD8F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{35D3780D-0DBA-467B-A59F-0B30D07BBD8F}.Release|iPhone.Build.0 = Release|iPhone
+		{35D3780D-0DBA-467B-A59F-0B30D07BBD8F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{35D3780D-0DBA-467B-A59F-0B30D07BBD8F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = iSOFlair.csproj

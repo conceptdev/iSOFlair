@@ -25,6 +25,8 @@
 			<string>None</string>
 			<key>AutocorrectionType</key>
 			<string>No</string>
+			<key>DefaultValue</key>
+			<string>1</string>
 		</dict>
 		<dict>
 			<key>Type</key>
@@ -37,6 +39,8 @@
 			<string>None</string>
 			<key>AutocorrectionType</key>
 			<string>No</string>
+			<key>DefaultValue</key>
+			<string>1</string>
 		</dict>
 		<dict>
 			<key>Type</key>
@@ -49,6 +53,8 @@
 			<string>None</string>
 			<key>AutocorrectionType</key>
 			<string>No</string>
+			<key>DefaultValue</key>
+			<string>1</string>
 		</dict>
 		<dict>
 			<key>Type</key>
@@ -61,6 +67,8 @@
 			<string>None</string>
 			<key>AutocorrectionType</key>
 			<string>No</string>
+			<key>DefaultValue</key>
+			<string>1</string>
 		</dict>
 	</array>
 </dict>
