@@ -1,38 +1,67 @@
-{
-	Title = AppSettings;
-	StringsTable = Root;
-	PreferenceSpecifiers = (
-		{
-			Type = PSGroupSpecifier;
-			Title = "User Ids";
-		},
-		{
-			Type = PSTextFieldSpecifier;
-			Title = StackOverflow;
-			Key = soid;
-			"AutocapitalizationType" = None;
-			AutocorrectionType = No;
-		},
-		{
-			Type = PSTextFieldSpecifier;
-			Title = ServerFault;
-			Key = sfid;
-			"AutocapitalizationType" = None;
-			AutocorrectionType = No;
-		},
-		{
-			Type = PSTextFieldSpecifier;
-			Title = SuperUser;
-			Key = suid;
-			"AutocapitalizationType" = None;
-			AutocorrectionType = No;
-		},
-		{
-			Type = PSTextFieldSpecifier;
-			Title = Meta;
-			Key = meid;
-			"AutocapitalizationType" = None;
-			AutocorrectionType = No;
-		},
-	);
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Title</key>
+	<string>AppSettings</string>
+	<key>StringsTable</key>
+	<string>Root</string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>User Ids</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>StackOverflow</string>
+			<key>Key</key>
+			<string>soid</string>
+			<key>AutocapitalizationType</key>
+			<string>None</string>
+			<key>AutocorrectionType</key>
+			<string>No</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>ServerFault</string>
+			<key>Key</key>
+			<string>sfid</string>
+			<key>AutocapitalizationType</key>
+			<string>None</string>
+			<key>AutocorrectionType</key>
+			<string>No</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>SuperUser</string>
+			<key>Key</key>
+			<string>suid</string>
+			<key>AutocapitalizationType</key>
+			<string>None</string>
+			<key>AutocorrectionType</key>
+			<string>No</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>Meta</string>
+			<key>Key</key>
+			<string>meid</string>
+			<key>AutocapitalizationType</key>
+			<string>None</string>
+			<key>AutocorrectionType</key>
+			<string>No</string>
+		</dict>
+	</array>
+</dict>
+</plist>
