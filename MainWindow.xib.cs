@@ -7,7 +7,7 @@ using System.IO; // for Path
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
-namespace Swipe01
+namespace iSOFlair
 {
 	// The name AppDelegate is referenced in the MainWindow.xib file.
 	public partial class AppDelegate : UIApplicationDelegate

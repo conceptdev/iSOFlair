@@ -6,7 +6,7 @@ using System.Drawing;
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
-namespace Swipe01
+namespace iSOFlair
 {
 	public class Application
 	{

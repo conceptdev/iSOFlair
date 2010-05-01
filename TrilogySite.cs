@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Swipe01
+namespace iSOFlair
 {
 	/// <summary>
 	/// Data about the four Stack Overflow sites

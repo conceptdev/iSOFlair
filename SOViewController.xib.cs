@@ -8,7 +8,7 @@ using MonoTouch.UIKit;
 using System.Net;
 using System.Text;
 
-namespace Swipe01
+namespace iSOFlair
 {
 	/// <summary>
 	/// Flair page 'template', re-used four times
